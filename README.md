@@ -1,5 +1,5 @@
 # 💫 Shishir Pandey
-Turning ideas into MERN applications 🧠 <br>MongoDB • Express • React • Node.js<br>                  I’m a passionate MERN Stack Developer focused on <br>building scalable, high-performance, and user-centric web <br>applications. I specialize in developing full-stack solutions using <br>MongoDB, Express.js, React.js, and Node.js, with a strong <br>emphasis on clean architecture, reusable components, and <br>maintainable code.<br>
+Turning ideas into MERN applications 🧠 <br>MongoDB • Express • React • Node.js<br>I’m a passionate MERN Stack Developer focused on <br>building scalable, high-performance, and user-centric web <br>applications. I specialize in developing full-stack solutions using <br>MongoDB, Express.js, React.js, and Node.js, with a strong <br>emphasis on clean architecture, reusable components, and <br>maintainable code.<br>
 
 
 ## 🌐 Socials:
